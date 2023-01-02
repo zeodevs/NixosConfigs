@@ -115,6 +115,9 @@
     pciutils
     dmidecode
     git
+    coreutils
+    fetchit
+    python3
   ];
 
   virtualisation.libvirtd = {
